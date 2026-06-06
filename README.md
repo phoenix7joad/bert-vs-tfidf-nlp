@@ -1,4 +1,4 @@
-# 🤖 Sentiment Analysis: TF-IDF vs BERT Embeddings
+# Sentiment Analysis: TF-IDF vs BERT Embeddings
 
 A comparative NLP study answering the research question:
 
